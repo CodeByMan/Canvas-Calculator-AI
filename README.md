@@ -62,7 +62,7 @@ The project demonstrates multimodal AI integration, strict response validation, 
 
 | Addition | Division |
 | --- | --- |
-| ![Addition](docs/screenshots/add.png) | ![Division](docs/screenshots/divde.png) |
+| ![Addition](docs/screenshots/add.png) | ![Division](docs/screenshots/divide.png) |
 
 ---
 
@@ -303,7 +303,7 @@ Canvas image + assigned variables
 ## 🧑‍💻 Author
 
 **Muhammad Ali Nawaz 2026**  
-Python Developer / AI Developer
+AI Developer
 
 ---
 

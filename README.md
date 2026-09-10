@@ -4,7 +4,7 @@
 
 A FastAPI + Next.js portfolio application for interpreting user-drawn mathematical expressions and diagrams with Google Gemini.
 
-![Python](https://img.shields.io/badge/Python-3.11%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13%2B-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/UI-React%2019-61dafb?style=for-the-badge&logo=react&logoColor=black)
@@ -56,6 +56,16 @@ The project demonstrates multimodal AI integration, strict response validation, 
 - 🔔 User feedback through toast notifications.
 - 👨‍💻 Developer attribution for Muhammad Ali Nawaz 2026.
 
+---
+
+## 🖼️ Screenshots
+
+| Addition | Division |
+| --- | --- |
+| ![Addition](docs/screenshots/add.png) | ![Division](docs/screenshots/divde.png) |
+
+---
+
 ## 🧰 Tech Stack
 
 ### Frontend
@@ -70,7 +80,7 @@ The project demonstrates multimodal AI integration, strict response validation, 
 
 ### Backend
 
-- Python 3.11+
+- Python 3.13+
 - FastAPI
 - Uvicorn
 - Pydantic
@@ -149,7 +159,7 @@ NEXT_PUBLIC_BASE_API_URL=http://localhost:8000/api
 ### Prerequisites
 
 - Windows 10 or 11
-- Python 3.11 or newer
+- Python 3.13 or newer
 - Node.js 20 or newer
 - Internet access for Gemini API requests
 - A Google Gemini API key
@@ -287,6 +297,8 @@ Canvas image + assigned variables
 - Submitted canvas images are sent to Google Gemini for analysis.
 - The application does not execute AI-generated code, shell commands, database queries, or external tools.
 - Do not commit `.env`, `.env.local`, virtual environments, dependency folders, caches, or build metadata.
+
+---
 
 ## 🧑‍💻 Author
 
